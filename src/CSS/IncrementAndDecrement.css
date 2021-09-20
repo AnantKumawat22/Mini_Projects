@@ -1,0 +1,93 @@
+.iad_main_head {
+  color: rgb(199, 35, 221);
+  font-size: 35px;
+  height: 30px;
+  width: 100%;
+  line-height: 30px;
+  letter-spacing: 1px;
+  font-family: sans-serif;
+  word-spacing: 1px;
+  text-align: center;
+}
+
+.iad_inner_div {
+  width: 100%;
+  height: 90vh;
+  background-color: rgb(226, 223, 223);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.iad_div_btn {
+  width: auto;
+  height: auto;
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.iad_inner_div h1 {
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
+.iad_btn_1,
+.iad_btn_2 {
+  font-size: 18px;
+  font-family: verdana;
+  margin-left: 7px;
+  cursor: pointer;
+  height: 45px;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 15px;
+  color: white;
+  box-shadow: 2px 2px 5px white;
+  background-color: rgb(177, 31, 177);
+  margin-right: 7px;
+}
+
+.iad_btn_1:hover,
+.iad_btn_2:hover {
+  background-color: rgb(199, 77, 199);
+}
+
+.iad_btn_1:active,
+.iad_btn_2:active {
+  transform: scale(1.1, 1.1);
+}
+
+.iad_para {
+  text-align: right;
+  width: 100%;
+  padding-top: 15px;
+  font-size: 20px;
+  font-family: cursive;
+  margin-top: 0px;
+  color: black;
+  letter-spacing: 1px;
+  margin-bottom: 0px;
+  background-color: rgb(226, 223, 223);
+}
+
+.iad_para_a {
+  text-decoration: none;
+}
+
+.iad_para span {
+  border-radius: 25px;
+  padding: 2px 2px;
+  margin-left: 10px;
+  margin-right: 20px;
+  background-color: #00ff7d;
+  color: #00ff7d;
+  height: 10px;
+}
+
+@media (max-width: 660px) {
+  .iad_main_head {
+    font-size: 24px;
+  }
+}

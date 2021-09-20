@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.dc_div {
+  background-color: rgb(221, 141, 208);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dc_h1 {
+  color: rgb(255, 255, 255);
+  font-size: 60px;
+  font-family: sans-serif;
+}
+
+.dc_time {
+  font-size: 50px;
+  margin-top: 10px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+@media (max-width: 690px) {
+  .dc_h1 {
+    font-size: 50px;
+  }
+  .dc_time {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 555px) {
+  .dc_h1 {
+    font-size: 35px;
+  }
+  .dc_time {
+    font-size: 25px;
+  }
+}
