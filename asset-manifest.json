@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Mini_Projects/static/css/main.af29bde8.chunk.css",
+    "main.js": "/Mini_Projects/static/js/main.6041c91a.chunk.js",
+    "main.js.map": "/Mini_Projects/static/js/main.6041c91a.chunk.js.map",
+    "runtime-main.js": "/Mini_Projects/static/js/runtime-main.ccec7259.js",
+    "runtime-main.js.map": "/Mini_Projects/static/js/runtime-main.ccec7259.js.map",
+    "static/js/2.de80c688.chunk.js": "/Mini_Projects/static/js/2.de80c688.chunk.js",
+    "static/js/2.de80c688.chunk.js.map": "/Mini_Projects/static/js/2.de80c688.chunk.js.map",
+    "index.html": "/Mini_Projects/index.html",
+    "static/css/main.af29bde8.chunk.css.map": "/Mini_Projects/static/css/main.af29bde8.chunk.css.map",
+    "static/js/2.de80c688.chunk.js.LICENSE.txt": "/Mini_Projects/static/js/2.de80c688.chunk.js.LICENSE.txt",
+    "static/media/Background_Color_Change.65723dbb.png": "/Mini_Projects/static/media/Background_Color_Change.65723dbb.png",
+    "static/media/Current_Date_And_Time.84d286d3.png": "/Mini_Projects/static/media/Current_Date_And_Time.84d286d3.png",
+    "static/media/Digital_Clock.4a309b79.png": "/Mini_Projects/static/media/Digital_Clock.4a309b79.png",
+    "static/media/Increment_And_Decrement.0191d29e.png": "/Mini_Projects/static/media/Increment_And_Decrement.0191d29e.png",
+    "static/media/Simple_Greating_Website_React.b973226e.png": "/Mini_Projects/static/media/Simple_Greating_Website_React.b973226e.png",
+    "static/media/Slot_Machine_Game.295a4ff2.png": "/Mini_Projects/static/media/Slot_Machine_Game.295a4ff2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccec7259.js",
+    "static/js/2.de80c688.chunk.js",
+    "static/css/main.af29bde8.chunk.css",
+    "static/js/main.6041c91a.chunk.js"
+  ]
+}
